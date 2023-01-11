@@ -1,6 +1,6 @@
 # Data-Scientist-Program---Data-Insight
 
-The Data Scientist Program is a fully funded one year program by [Data Insight](https://www.datainsightonline.com/data-scientist-program) which is aimed at equiping learners with the key Data Science skills.
+The Data Scientist Program is a fully funded one year program by [Data Insight](https://www.datainsightonline.com/data-scientist-program) which is aimed at equipping learners with the key Data Science skills.
 
 Over the course of the program, a number of courses are presented that equips the student with programming, statistical and machine learning skills for driving insights from data and be able to make data driven decisions. 
 
