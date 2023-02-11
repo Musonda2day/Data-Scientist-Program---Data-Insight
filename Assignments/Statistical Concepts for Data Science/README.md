@@ -1,4 +1,4 @@
-# Statistica Concepts for Data Science
+# Statistical Concepts for Data Science
 
 [Blog post on Data Insight](https://www.datainsightonline.com/post/statistical-concepts-for-data-science-12)
 
