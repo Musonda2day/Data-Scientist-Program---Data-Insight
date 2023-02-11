@@ -4,3 +4,4 @@
 2. Python Concepts for Data Science
 3. Pandas Techniques for Data Manipulation in Python 
 4. Importing, Cleaning and Visualizing Data in Python 
+5. Statistica Concepts for Data Science
